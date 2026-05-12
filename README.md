@@ -1,12 +1,8 @@
-# AI-Meeting-Assistant
-you can ask question from meeting transcript ,gives u clear idea and future goal
-
 
 # 🎙️ AI Meeting Assistant
 
 An AI-powered Meeting Assistant that can process meeting recordings or YouTube videos, generate transcripts, summarize discussions, extract actionable insights, and even allow users to chat with their meetings using RAG (Retrieval-Augmented Generation).
 
-Built using modern Generative AI workflows, speech recognition, and LLM-powered analysis
 
 ✨ Features
 🎧 Process local audio/video files
