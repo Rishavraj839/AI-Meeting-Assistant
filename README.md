@@ -23,7 +23,7 @@ Built using modern Generative AI workflows, speech recognition, and LLM-powered 
 
 # Project Architecture
 
-'''Input Audio / YouTube URL
+```Input Audio / YouTube URL
             │
             ▼
    Audio Processing Layer
@@ -43,14 +43,14 @@ Built using modern Generative AI workflows, speech recognition, and LLM-powered 
       RAG Knowledge Base
             │
             ▼
-     Interactive Q&A Chat'''
+     Interactive Q&A Chat```
 
 
 
 
 # Project Structure
 
-     AI-Meeting-Assistant/
+```     AI-Meeting-Assistant/
 │
 ├── core/
 │   ├── transcriber.py
@@ -64,4 +64,4 @@ Built using modern Generative AI workflows, speech recognition, and LLM-powered 
 ├── main.py
 ├── requirements.txt
 ├── .env
-└── README.md
+└── README.md```
