@@ -4,6 +4,7 @@
 An AI-powered Meeting Assistant that can process meeting recordings or YouTube videos, generate transcripts, summarize discussions, extract actionable insights, and even allow users to chat with their meetings using RAG (Retrieval-Augmented Generation).
 
 
+
 ✨ Features
 🎧 Process local audio/video files
 📺 Process YouTube meeting recordings
@@ -17,9 +18,13 @@ An AI-powered Meeting Assistant that can process meeting recordings or YouTube v
 🌐 Supports English & Hinglish inputs
 
 
+
 # Project Architecture
 
-```Input Audio / YouTube URL
+
+
+```
+Input Audio / YouTube URL
             │
             ▼
    Audio Processing Layer
@@ -39,14 +44,15 @@ An AI-powered Meeting Assistant that can process meeting recordings or YouTube v
       RAG Knowledge Base
             │
             ▼
-     Interactive Q&A Chat```
-
+     Interactive Q&A Chat
+```
 
 
 
 # Project Structure
 
-```     AI-Meeting-Assistant/
+```
+AI-Meeting-Assistant/
 │
 ├── core/
 │   ├── transcriber.py
@@ -60,4 +66,6 @@ An AI-powered Meeting Assistant that can process meeting recordings or YouTube v
 ├── main.py
 ├── requirements.txt
 ├── .env
-└── README.md```
+└── README.md
+
+```
