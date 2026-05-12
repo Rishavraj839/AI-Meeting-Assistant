@@ -2,7 +2,7 @@
 you can ask question from meeting transcript ,gives u clear idea and future goal
 
 
-🎙️ AI Meeting Assistant
+# 🎙️ AI Meeting Assistant
 
 An AI-powered Meeting Assistant that can process meeting recordings or YouTube videos, generate transcripts, summarize discussions, extract actionable insights, and even allow users to chat with their meetings using RAG (Retrieval-Augmented Generation).
 
@@ -21,9 +21,9 @@ Built using modern Generative AI workflows, speech recognition, and LLM-powered 
 🌐 Supports English & Hinglish inputs
 
 
-Project Architecture
+# Project Architecture
 
-Input Audio / YouTube URL
+'''Input Audio / YouTube URL
             │
             ▼
    Audio Processing Layer
@@ -43,12 +43,12 @@ Input Audio / YouTube URL
       RAG Knowledge Base
             │
             ▼
-     Interactive Q&A Chat
+     Interactive Q&A Chat'''
 
 
 
 
-     project Structure
+# Project Structure
 
      AI-Meeting-Assistant/
 │
