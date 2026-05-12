@@ -7,16 +7,16 @@ An AI-powered Meeting Assistant that can process meeting recordings or YouTube v
 
 #  Features
 
-🎧 Process local audio/video files
-📺 Process YouTube meeting recordings
-📝 Automatic speech-to-text transcription
-🧠 AI-generated meeting summaries
-📌 Smart meeting title generation
-✅ Extract actionable tasks
-🔑 Detect key decisions
-❓ Extract important/open questions
-💬 Chat with your meeting using RAG
-🌐 Supports English & Hinglish inputs
+🎧 Process local audio/video files <br>
+📺 Process YouTube meeting recordings <br>
+📝 Automatic speech-to-text transcription <br>
+🧠 AI-generated meeting summaries <br>
+📌 Smart meeting title generation <br>
+✅ Extract actionable tasks <br>
+🔑 Detect key decisions <br>
+❓ Extract important/open questions <br>
+💬 Chat with your meeting using RAG <br>
+🌐 Supports English & Hinglish inputs <br>
 
 
 
